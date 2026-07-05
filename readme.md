@@ -2,12 +2,11 @@
 
 Seja Bem-Vindo ao repositório! Este projeto é o meu primeiro projeto utilizando o Git e Github em meus estudos para aprendizado de DevOps.
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 
--Git
--GitHub
--Markdown
+- Git
+- GitHub
+- Markdown
 
 ## Estrutura do Projeto
-
 
