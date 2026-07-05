@@ -10,3 +10,10 @@ Seja Bem-Vindo ao repositório! Este projeto é o meu primeiro projeto utilizand
 
 ## Estrutura do Projeto
 
+### Adicionando Conteúdo Remotamente
+
+---
+
+### Como trabalhar com o Git
+
+
